@@ -13,7 +13,7 @@
 
 **Jiahao Hou(s4608586)** Develop the application
 
-**Shengze Yu(s4505954)** Develop the application
+**Shengze Yu(s4505954)** Develop the application.
 
 ## Conference Poster/s
 
