@@ -30,7 +30,7 @@ Description Here..
 Description Here..
 #### Relative links
 * [Poster](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
-* [Promotional resource](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
+* [Promotional video](https://youtu.be/qsH0N6N0cnI)
 * [Ongoing document of work](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
 
 
