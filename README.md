@@ -30,7 +30,7 @@ This is a psychological problem solving app for young adult. Users can put their
 Description Here..
 #### Relative links
 * [Poster](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
-* [Promotional video](https://youtu.be/qsH0N6N0cnI)
+* [Promotional video](https://www.youtube.com/watch?v=D9lP0yiVYow)
 * [Ongoing document of work](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
 
 
