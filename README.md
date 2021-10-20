@@ -22,7 +22,7 @@
 #### Introduce
 This is a psychological problem solving app for young adult. Users can put their worries in a bottle and send it away. Users can enjoy the night scene in the game, while listening to white noise, to bring their mind to relax. The game is built in Unity.
 #### Relative links
-* [Project Source](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
+* [Project Source](https://github.com/zmxxb/Get7/tree/main/app)
 
 
 ## Wiki
