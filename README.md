@@ -53,6 +53,6 @@ Description Here..
 #### Relative links
 * [Poster](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
 * [Promotional video](https://www.youtube.com/watch?v=D9lP0yiVYow)
-* [Ongoing document of work](https://github.com/deco3500-2018/TheFakeNewsOrganisation/wiki/Design-Process)
+* [Ongoing document of work](https://github.com/zmxxb/Get7/tree/main/ongoing%20document%20of%20work)
 
 
